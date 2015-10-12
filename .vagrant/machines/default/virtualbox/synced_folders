@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/elixirbrowsersync-demo":{"type":null,"mount_options":[],"guestpath":"/home/vagrant/elixirbrowsersync-demo","hostpath":"/Users/oomusou/Code/Demo/ElixirBrowsersync_demo","disabled":false},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/oomusou/Code/Demo/ElixirBrowsersync_demo","disabled":false}}}
